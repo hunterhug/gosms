@@ -1,4 +1,4 @@
-module gosms
+module github.com/hunterhug/gosms
 
 go 1.19
 
